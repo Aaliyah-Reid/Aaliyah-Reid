@@ -4,8 +4,7 @@
 <h2>Tools and Languages</h2>
 <p>Here are some of the tools and languages I have experience with and use in my projects:</p>
 
-<a href="https://giphy.com/stickers/happy-video-games-gUNA7QH4AeLde">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gUNA7QH4AeLde" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/happy-video-games-gUNA7QH4AeLde">via GIPHY</a></p>
+<img src="https://giphy.com/stickers/happy-video-games-gUNA7QH4AeLde" width="50">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyah-Reid&hide=TeX&layout=compact)
