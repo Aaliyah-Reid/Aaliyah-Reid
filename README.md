@@ -1,8 +1,8 @@
 <h1> Hi, I'm Aaliyah Reid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<p style="font-weight: bold;">I'm a <strong>Computer Science Major</strong> and <strong>Economics Minor</strong> at <strong>UWI, Mona</strong>. <br> I am passionate about <strong>full-stack development</strong>, <strong>UI Design</strong>, <strong>Visual Arts</strong>, and <strong>Electronics</strong>.</p>
+<p style="font-weight: bold; font-size:18px;">I'm a <strong>Computer Science Major</strong> and <strong>Economics Minor</strong> at <strong>UWI, Mona</strong>. <br> I am passionate about <strong>full-stack development</strong>, <strong>UI Design</strong>, <strong>Visual Arts</strong>, and <strong>Electronics</strong>.</p>
 
 
-<h2><img src= "https://media.giphy.com/media/gUNA7QH4AeLde/giphy.gif" width="50" > Tools and Languages ></h2>
+<h2><img src= "https://media.giphy.com/media/gUNA7QH4AeLde/giphy.gif" width="50" > Tools and Languages </h2>
 <p>Here are some of the tools and languages I have experience with and use in my projects:</p>
 <p align="left">
 <img title="Python" height="25" src="images/python-original.svg">
@@ -19,8 +19,7 @@
 </p>
 
 
-
-<h2>What I'm currently learning:</h2>
+<h3>What I'm currently learning:</h3>
 <p></p>I'm currently learning React to enhance my frontend skills and Flutter for mobile app development.</p>
 <p align="left">
   
@@ -28,13 +27,13 @@
 <img title="Flutter" height="25" src="images/flutter.png">
 </p>
 
-<h2>Let's Connect</h2>
+<h3>Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a><br>
 <a href="aaliyahreid38@gmail.com" title="Email Address"><img width="22" src="images/gmail.png"> Gmail</a>
 
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaliyah-Reid&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyah-Reid&hide=TeX&layout=compact)
 
 <!--
