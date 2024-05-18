@@ -4,7 +4,7 @@
 <h2>🤍Tools and Languages🤍 <img src= "https://media.giphy.com/media/gUNA7QH4AeLde/giphy.gif" width="50"></h2>
 <p>Here are some of the tools and languages I have experience with and use in my projects:</p>
 <p align="center">
-<code><img title="Python" height="25" src="images/python-original.svg"></code>
+<img title="Python" height="25" src="images/python-original.svg">
 <code><img title="Java" height="25" src="images/java-original.svg"></code>
 <code><img title="HTML5" height="25" src="images/html5.svg"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
