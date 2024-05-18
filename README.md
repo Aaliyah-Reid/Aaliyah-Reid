@@ -1,5 +1,5 @@
 <h1> Hi, I'm Aaliyah Reid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<p style="font-weight: bold; font-size:20px;">I'm a <strong>Computer Science Major</strong> and <strong>Economics Minor</strong> at <strong>UWI, Mona</strong>. <br> I am passionate about <strong>full-stack development</strong>, <strong>UI Design</strong>, <strong>Visual Arts</strong>, and <strong>Electronics</strong>.</p>
+<p style="font-weight: bold; font-size:20px;">I'm a <strong>Computer Science Major</strong> and <strong>Economics Minor</strong> at <strong>UWI, Mona</strong>. <br> I am passionate about <strong>Full-Stack Development</strong>, <strong>UI Design</strong>, <strong>Visual Arts</strong>, and <strong>Electronics</strong>.</p>
 
 
 <h2><img src= "https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50"> Tools and Languages </h2>
@@ -29,7 +29,7 @@
 
 <h3>Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a> 
+<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">   LinkedIn</a> 
 
 
 <!--
