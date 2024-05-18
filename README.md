@@ -2,7 +2,7 @@
 <p style="font-weight: bold; font-size:20px;">I'm a <strong>Computer Science Major</strong> and <strong>Economics Minor</strong> at <strong>UWI, Mona</strong>. <br> I am passionate about <strong>Full-Stack Development</strong>, <strong>UI Design</strong>, <strong>Visual Arts</strong>, and <strong>Electronics</strong>.</p>
 
 
-<h2><img src= "https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50"> Tools and Languages </h2>
+<h2><img src= "https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="80"> Tools and Languages </h2>
 <p>Here are some of the tools and languages I have experience with and use in my projects:</p>
 <p align="left">
 <img title="Python" height="25" src="images/python-original.svg">
