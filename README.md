@@ -5,15 +5,18 @@
 <p>Here are some of the tools and languages I have experience with and use in my projects:</p>
 <p align="center">
 <img title="Python" height="25" src="images/python-original.svg">
-<code><img title="Java" height="25" src="images/java-original.svg"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-<code><img title="JSON" height="25" src="images/json.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="Flask" height="25" src="images/flask.png"></code>
-<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
+<img title="Java" height="25" src="images/java-original.svg">
+<img title="HTML5" height="25" src="images/html5.svg">
+<img title="CSS" height="25" src="images/css.svg">
+<img title="Javascript" height="25" src="images/javascript.svg">
+<img title="VueJs" height="25" src="images/vuejs.png.png">
+<img title="Visual Studio Code" height="25" src="images/vscode.png">
+<img title="Flask" height="25" src="images/flask.png">
+<img title="PostgreSQL" height="25" src="images/postgresql.svg">
+<img title="Git" height="25" src="images/git-original.svg">
+<img title="GitHub" height="25" src="images/github.svg">
+
+
 
 <h2>What I'm currently learning:</h2>
 
