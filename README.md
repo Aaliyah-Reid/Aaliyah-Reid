@@ -29,8 +29,7 @@
 
 <h3>Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a> <spam>   </span>
-<a href="aaliyahreid38@gmail.com" title="Email Address"><img width="22" src="images/gmail.png"> Gmail</a>
+<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a> 
 
 
 <!--
