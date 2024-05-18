@@ -20,16 +20,17 @@
 
 
 <h2>What I'm currently learning:</h2>
-
+<p></p>I'm currently learning React to enhance my frontend skills and Flutter for mobile app development.</p>
 <p align="left">
   
 <img title="React" height="25" src="images/react-original.svg">
 <img title="Flutter" height="25" src="images/flutter.png">
 </p>
 
+<h2>Let's Connect</h2>
 
-
-
+<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+<a href="aaliyahreid38@gmail.com" title="Email Address"><img width="22" src="images/email.png"> Gmail</a>
 
 
 
