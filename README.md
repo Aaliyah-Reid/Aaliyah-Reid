@@ -1,5 +1,6 @@
 <h1> Hi, I'm Aaliyah Reid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<p>I'm a Computer Science Major and Economics Minor at UWI, Mona. <br> I am passionate about full-stack development, UI Design, Visual Arts and Electronics</p>
+<p style="font-weight: bold;">I'm a <strong>Computer Science Major</strong> and <strong>Economics Minor</strong> at <strong>UWI, Mona</strong>. <br> I am passionate about <strong>full-stack development</strong>, <strong>UI Design</strong>, <strong>Visual Arts</strong>, and <strong>Electronics</strong>.</p>
+
 
 <h2><img src= "https://media.giphy.com/media/gUNA7QH4AeLde/giphy.gif" width="50" > Tools and Languages ></h2>
 <p>Here are some of the tools and languages I have experience with and use in my projects:</p>
@@ -30,7 +31,7 @@
 <h2>Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
-<a href="aaliyahreid38@gmail.com" title="Email Address"><img width="22" src="images/email.png"> Gmail</a>
+<a href="aaliyahreid38@gmail.com" title="Email Address"><img width="22" src="images/gmail.png"> Gmail</a>
 
 
 
