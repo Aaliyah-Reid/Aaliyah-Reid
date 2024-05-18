@@ -29,12 +29,9 @@
 
 <h3>Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a> <spam>   </span>
 <a href="aaliyahreid38@gmail.com" title="Email Address"><img width="22" src="images/gmail.png"> Gmail</a>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaliyah-Reid&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyah-Reid&hide=TeX&layout=compact)
 
 <!--
 **Aaliyah-Reid/Aaliyah-Reid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
