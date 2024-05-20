@@ -31,13 +31,6 @@
 
 <a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile" style="color: #D56AA0;"><img width="22" src="images/linkedin.svg">   LinkedIn</a> 
 
-<style>
-    a:link, a:visited, a:hover, a:active {
-      color: #D56AA0;
-      text-decoration: none; 
-    }
-  </style>
-
 
 <!--
 **Aaliyah-Reid/Aaliyah-Reid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
