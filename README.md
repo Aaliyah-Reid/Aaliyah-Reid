@@ -29,7 +29,7 @@
 
 <h3>Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">   LinkedIn</a> 
+<a href="https://www.linkedin.com/in/aaliyahreid/" title="LinkedIn Profile" style="color: #D56AA0;"><img width="22" src="images/linkedin.svg">   LinkedIn</a> 
 
 
 <!--
